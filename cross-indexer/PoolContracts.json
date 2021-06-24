@@ -283,5 +283,25 @@
         "pid": 1
       }
     ]
+  },
+  {
+    "address": "0x9C95999B4E42019658F10EA8DF40c5E9b78d981A",
+    "name": "HAKA",
+    "rewardToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+    "rewardVault": "0x4fF765077B7D64a73fd39f2B4Ed438f46E649299",
+    "startBlock": 8575225,
+    "endBlock": 9439225,
+    "stakingPools": [
+      {
+        "address": "0x3cdd9d3a67bfce83b4a96703ba8cc70e8372f819",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 30,
+        "pid": 1
+      }
+    ]
   }
 ]
