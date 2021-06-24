@@ -228,5 +228,60 @@
         "pid": 1
       }
     ]
+  },
+  {
+    "address": "0x7F450B954c7B151c48d4629EaB0Fe2bAEd2780f1",
+    "name": "GUM",
+    "rewardToken": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+    "rewardVault": "0x8556A6f155cA86C3760d83c27a4022bff533d33b",
+    "startBlock": 8690867,
+    "endBlock": 11282866,
+    "stakingPools": [
+      {
+        "address": "0x28Ea5894D4DBbE90bB58eE3BAB2869387d711c87",
+        "share": 25,
+        "pid": 0
+      },
+      {
+        "address": "0x168349B5340d6022ECE6Ef908c0b0B14ff474007",
+        "share": 20,
+        "pid": 1
+      },
+      {
+        "address": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+        "share": 15,
+        "pid": 2
+      },
+      {
+        "address": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+        "share": 25,
+        "pid": 3
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 15,
+        "pid": 4
+      }
+    ]
+  },
+  {
+    "address": "0xFFB39a84AE3c0dBFaEB839E27F8550A27Cf06539",
+    "name": "HAKA",
+    "rewardToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+    "rewardVault": "0x28F201b6E1c80Ec38266f50d1993922f67e45349",
+    "startBlock": 8551521,
+    "endBlock": 9415521,
+    "stakingPools": [
+      {
+        "address": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 30,
+        "pid": 1
+      }
+    ]
   }
 ]
