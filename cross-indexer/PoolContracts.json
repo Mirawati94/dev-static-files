@@ -1,0 +1,232 @@
+[
+  {
+    "address": "0x2cC37dB18635e506C4Ba3749F1f71312BF37AdBe",
+    "name": "HOT CROSS",
+    "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "rewardVault": "0x9d24460372123FF62F4b047D2981DFC3FE85C9E5",
+    "startBlock": 7775683,
+    "endBlock": 8639683,
+    "stakingPools": [
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 45,
+        "pid": 0
+      },
+      {
+        "address": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+        "share": 45,
+        "pid": 1
+      },
+      {
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "share": 10,
+        "pid": 2
+      }
+    ]
+  },
+  {
+    "address": "0x881Bd00141078C2e7b4c35542Ec189EbFe4b95F7",
+    "name": "HOT CROSS",
+    "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "rewardVault": "0x2C37CE244941552C81C64A1a6f42E3cccDfAcCfD",
+    "startBlock": 7775683,
+    "endBlock": 8639683,
+    "stakingPools": [
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 75,
+        "pid": 0
+      },
+      {
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "share": 17.5,
+        "pid": 1
+      },
+      {
+        "address": "0xc15fa3E22c912A276550F3E5FE3b0Deb87B55aCd",
+        "share": 5,
+        "pid": 2
+      },
+      {
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "share": 2.5,
+        "pid": 3
+      }
+    ]
+  },
+  {
+    "address": "0x233DCd75146FaBe43ce27e5E953AddAe8294b4D3",
+    "name": "CAKE",
+    "rewardToken": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "rewardVault": "0x8b5dc488F0312c85F9e23A8e829c88c7210A0F70",
+    "startBlock": 7775683,
+    "endBlock": 8639683,
+    "stakingPools": [
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 80,
+        "pid": 0
+      },
+      {
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "share": 10,
+        "pid": 1
+      },
+      {
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "share": 10,
+        "pid": 2
+      }
+    ]
+  },
+  {
+    "address": "0x8ee3F41DA7074E907940359De4b0a7bcA956173D",
+    "name": "FRONT",
+    "rewardToken": "0x928e55dab735aa8260af3cedada18b5f70c72f1b",
+    "rewardVault": "0x736cbE250ea1f7C75daF333eD50a6400ce6f4Daa",
+    "startBlock": 7804483,
+    "endBlock": 8668483,
+    "stakingPools": [
+      {
+        "address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 30,
+        "pid": 1
+      }
+    ]
+  },
+  {
+    "address": "0x5072639F5aE6b70eC1dE22A6F3EBeA5D49d76096",
+    "name": "GUM",
+    "rewardToken": "0xc53708664b99df348dd27c3ac0759d2da9c40462",
+    "rewardVault": "0xea18AE2e0C1745425c469E399875B0c637B26607",
+    "startBlock": 7804483,
+    "endBlock": 8668483,
+    "stakingPools": [
+      {
+        "address": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 30,
+        "pid": 1
+      }
+    ]
+  },
+  {
+    "address": "0xe59Db745A8fDf477aecF788cf140c119995b8715",
+    "name": "MARSH",
+    "rewardToken": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
+    "rewardVault": "0xc00AEEC0633ED43fb9BFBb3DDb003595fC111478",
+    "startBlock": 7887412,
+    "endBlock": 8751411,
+    "stakingPools": [
+      {
+        "address": "0x222f93187f15f354d41ff6a7703ef7e18cdd5103",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 30,
+        "pid": 1
+      }
+    ]
+  },
+  {
+    "address": "0x51384Ff283e28e616B11CB80eCd3aFbcba3995D4",
+    "name": "MARSH",
+    "rewardToken": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
+    "rewardVault": "0x9b0A9b2C6E1a18b0f65635468fc9D39Bd44D3AFd",
+    "startBlock": 7887137,
+    "endBlock": 8751137,
+    "stakingPools": [
+      {
+        "address": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 30,
+        "pid": 1
+      }
+    ]
+  },
+  {
+    "address": "0x4f0fa2b047a913940C61bAE5670cC4Fe4640dAEE",
+    "name": "ZEE",
+    "rewardToken": "0x44754455564474a89358b2c2265883df993b12f0",
+    "rewardVault": "0x938aFBc0C38FeC3dFF43A9CCE483b0b58faD1e63",
+    "startBlock": 7947015,
+    "endBlock": 8811015,
+    "stakingPools": [
+      {
+        "address": "0x44754455564474a89358b2c2265883df993b12f0",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 30,
+        "pid": 1
+      }
+    ]
+  },
+  {
+    "address": "0x899f1CE302E9E400671C01c6eef24B0CC6C5081d",
+    "name": "BUSD",
+    "rewardToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "rewardVault": "0x7Cd0dd17071E09242C936217D0bfa30758436d61",
+    "startBlock": 7976196,
+    "endBlock": 8840196,
+    "stakingPools": [
+      {
+        "address": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00",
+        "share": 50,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 25,
+        "pid": 1
+      },
+      {
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "share": 12.5,
+        "pid": 2
+      },
+      {
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "share": 12.5,
+        "pid": 3
+      }
+    ]
+  },
+  {
+    "address": "0x5ebC8dB869600DE7E01B275187a794CC11F11751",
+    "name": "WBNB",
+    "rewardToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "rewardVault": "0x83873e78eD5e59c5eEC5BC26daf646E3cFd7E98B",
+    "startBlock": 8346188,
+    "endBlock": 9210188,
+    "stakingPools": [
+      {
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 30,
+        "pid": 1
+      }
+    ]
+  }
+]
