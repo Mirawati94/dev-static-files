@@ -323,5 +323,30 @@
         "pid": 1
       }
     ]
+  },
+  {
+    "address": "0xAdF39986aF8b1072a7762978231A5F3dAd7b30Be",
+    "name": "ETH",
+    "rewardToken": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "rewardVault": "0xdB4325cea8FBaC13c2ba4FE37C667966faEA2Fa8",
+    "startBlock": 8691893,
+    "endBlock": 9843893,
+    "stakingPools": [
+      {
+        "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "share": 50,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 25,
+        "pid": 1
+      },
+      {
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "share": 25,
+        "pid": 2
+      }
+    ]
   }
 ]
