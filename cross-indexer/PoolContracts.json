@@ -348,5 +348,25 @@
         "pid": 2
       }
     ]
+  },
+  {
+    "address": "0x0df4B94444f13499ef34f7aECBb7f07f0e9821fA",
+    "name": "MARSH",
+    "rewardToken": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
+    "rewardVault": "0x28B85c2e26Be0F66C64CFd424aE9631f1e84D58D",
+    "startBlock": 8771456,
+    "endBlock": 10499456,
+    "stakingPools": [
+      {
+        "address": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 30,
+        "pid": 1
+      }
+    ]
   }
 ]
