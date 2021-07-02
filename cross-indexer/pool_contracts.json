@@ -368,5 +368,25 @@
         "pid": 1
       }
     ]
+  },
+  {
+    "address": "0xC7EB08Ee672B82d1eCee7a4A575Cd69522b25091",
+    "name": "BUSD",
+    "rewardToken": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "rewardVault": "0x317E65e893005575bbb168b2055D8A40106D46DC",
+    "startBlock": 8807897,
+    "endBlock": 9671897,
+    "stakingPools": [
+      {
+        "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+        "share": 90,
+        "pid": 0
+      },
+      {
+        "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "share": 10,
+        "pid": 1
+      }
+    ]
   }
 ]
