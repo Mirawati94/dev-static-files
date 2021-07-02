@@ -1,0 +1,90 @@
+[
+	{
+		"address": "0x222f93187f15f354d41ff6a7703ef7e18cdd5103",
+		"name": "MARSH-BNB Pair",
+		"symbol": "MARSH-BNB",
+		"decimals": 18,
+		"token0": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
+		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+	},
+	{
+		"address": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+		"name": "HOTCROSS-BNB Pair",
+		"symbol": "HOTCROSS-BNB",
+		"decimals": 18,
+		"token0": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+	},
+	{
+		"address": "0x0eD7e52944161450477ee417DE9Cd3a859b14fD0",
+		"name": "CAKE-BNB Pair",
+		"symbol": "CAKE-BNB",
+		"decimals": 18,
+		"token0": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+	},
+	{
+		"address": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16",
+		"name": "BUSD-BNB Pair",
+		"symbol": "BUSD-BNB",
+		"decimals": 18,
+		"token0": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+	},
+	{
+		"address": "0xC6b668548aA4A56792e8002A920d3159728121D5",
+		"name": "FRONT-BNB Pair",
+		"symbol": "FRONT-BNB",
+		"decimals": 18,
+		"token0": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+	},
+	{
+		"address": "0x7EFaEf62fDdCCa950418312c6C91Aef321375A00",
+		"name": "USDT-BUSD Pair",
+		"symbol": "USDT-BUSD",
+		"decimals": 18,
+		"token0": "0x55d398326f99059ff775485246999027b3197955",
+		"token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+	},
+	{
+		"address": "0xc15fa3E22c912A276550F3E5FE3b0Deb87B55aCd",
+		"name": "USDT-BUSD V1 Pair",
+		"symbol": "USDT-BUSD V1",
+		"decimals": 18,
+		"token0": "0x55d398326f99059ff775485246999027b3197955",
+		"token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+	},
+	{
+		"address": "0x2354ef4DF11afacb85a5C7f98B624072ECcddbB1",
+		"name": "USDC-BUSD Pair",
+		"symbol": "USDC-BUSD",
+		"decimals": 18,
+		"token0": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+		"token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+	},
+	{
+		"address": "0x28Ea5894D4DBbE90bB58eE3BAB2869387d711c87",
+		"name": "GUM-BNB Pair",
+		"symbol": "GUM-BNB",
+		"decimals": 18,
+		"token0": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+	},
+	{
+		"address": "0x168349B5340d6022ECE6Ef908c0b0B14ff474007",
+		"name": "GUM-BUSD Pair",
+		"symbol": "GUM-BUSD",
+		"decimals": 18,
+		"token0": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+		"token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+	},
+	{
+		"address": "0x3cdd9d3a67bfce83b4a96703ba8cc70e8372f819",
+		"name": "HAKA-BNB Pair",
+		"symbol": "HAKA-BNB",
+		"decimals": 18,
+		"token0": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+	}
+]
