@@ -28,8 +28,8 @@
 		"name": "BUSD-BNB Pair",
 		"symbol": "BUSD-BNB",
 		"decimals": 18,
-		"token0": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+		"token0": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+		"token1": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
 	},
 	{
 		"address": "0xC6b668548aA4A56792e8002A920d3159728121D5",
@@ -68,8 +68,8 @@
 		"name": "GUM-BNB Pair",
 		"symbol": "GUM-BNB",
 		"decimals": 18,
-		"token0": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
-		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+		"token0": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+		"token1": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462"
 	},
 	{
 		"address": "0x168349B5340d6022ECE6Ef908c0b0B14ff474007",
@@ -84,7 +84,7 @@
 		"name": "HAKA-BNB Pair",
 		"symbol": "HAKA-BNB",
 		"decimals": 18,
-		"token0": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
-		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+		"token0": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+		"token1": "0xD85AD783cc94bd04196a13DC042A3054a9B52210"
 	}
 ]
