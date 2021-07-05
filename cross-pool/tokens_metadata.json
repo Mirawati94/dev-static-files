@@ -76,5 +76,11 @@
 		"name": "Binance-Peg Ethereum Token",
 		"symbol": "ETH",
 		"decimals": 18
+	},
+	{
+		"address": "0x0995d8643645Dd0CEa60ab1acFA5AD2f642273D3",
+		"name": "Kambria Yield Tuning Engine",
+		"symbol": "KYTE",
+		"decimals": 18
 	}
 ]
