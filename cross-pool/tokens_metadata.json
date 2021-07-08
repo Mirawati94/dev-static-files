@@ -94,5 +94,11 @@
 		"name": "Lendefi",
 		"symbol": "LDFI",
 		"decimals": 18
+	},
+	{
+		"address": "0xCD40F2670CF58720b694968698A5514e924F742d",
+		"name": "OddzToken",
+		"symbol": "ODDZ",
+		"decimals": 18
 	}
 ]
