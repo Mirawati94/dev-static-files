@@ -388,5 +388,45 @@
         "pid": 1
       }
     ]
+  },
+  {
+    "address": "0x0389208349e01C99957F6cA2f37f07F4f5fC104c",
+    "name": "KYTE",
+    "rewardToken": "0x0995d8643645dd0cea60ab1acfa5ad2f642273d3",
+    "rewardVault": "0x2F8dEB2Ef2a8788A5Cf05fb32A1F5dd98b7262b4",
+    "startBlock": 8892382,
+    "endBlock": 10908382,
+    "stakingPools": [
+      {
+        "address": "0x4f2ee75371b31af8ffa7de05ac04ca670390410f",
+        "share": 60,
+        "pid": 0
+      },
+      {
+        "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+        "share": 40,
+        "pid": 1
+      }
+    ]
+  },
+  {
+    "address": "0xce24dBC8C07cD0e1EF27A29dd7aA83728c86C97a",
+    "name": "ODDZ",
+    "rewardToken": "0xCD40F2670CF58720b694968698A5514e924F742d",
+    "rewardVault": "0x86e6e29A6Ce0D17908cE6Fdd8b40C1c8507038fC",
+    "startBlock": 8978951,
+    "endBlock": 9842952,
+    "stakingPools": [
+      {
+        "address": "0xCD40F2670CF58720b694968698A5514e924F742d",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+        "share": 30,
+        "pid": 1
+      }
+    ]
   }
 ]
