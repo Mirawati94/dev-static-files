@@ -443,5 +443,25 @@
         "pid": 0
       }
     ]
+  },
+  {
+    "address": "0x7a4f36000820Bd8FceD106F9CE4ac3a03A4dA395",
+    "name": "WBNB",
+    "rewardToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "rewardVault": "0xa9419d9D8E6797DA5D2CA26edB2c862bf00132e4",
+    "startBlock": 9207490,
+    "endBlock": 10935490,
+    "stakingPools": [
+      {
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "share": 50,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 50,
+        "pid": 1
+      }
+    ]
   }
 ]
