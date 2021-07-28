@@ -106,5 +106,11 @@
 		"name": "ApeSwapFinance Banana",
 		"symbol": "BANANA",
 		"decimals": 18
+	},
+	{
+		"address": "0xacb2d47827C9813AE26De80965845D80935afd0B",
+		"name": "MacaronSwap Token",
+		"symbol": "MCRN",
+		"decimals": 18
 	}
 ]
