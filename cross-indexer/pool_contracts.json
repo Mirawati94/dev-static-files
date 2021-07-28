@@ -508,5 +508,25 @@
         "pid": 0
       }
     ]
-  } 
+  },
+  {
+    "address": "0xc42d513C5294Ce0AB27209eb0FF44D28d9aD683a",
+    "name": "FRONT",
+    "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+    "rewardVault": "0xA7F2A18350d72F3316a9Fe558c8B7F367FF2F929",
+    "startBlock": 9552333,
+    "endBlock": 10416332,
+    "stakingPools": [
+      {
+        "address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 30,
+        "pid": 1
+      }
+    ]
+  }
 ]
