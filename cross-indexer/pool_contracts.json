@@ -528,5 +528,25 @@
         "pid": 1
       }
     ]
+  },
+  {
+    "address": "0x39FB14e803f4f7bC4738aCcA4Ce615830070FEBD",
+    "name": "UNO",
+    "rewardToken": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+    "rewardVault": "0x8d38c902A040590BD6086fDe7B543728cB30ff77",
+    "startBlock": 9689494,
+    "endBlock": 12281493,
+    "stakingPools": [
+      {
+        "address": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 30,
+        "pid": 1
+      }
+    ]
   }
 ]
