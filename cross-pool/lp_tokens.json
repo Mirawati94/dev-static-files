@@ -100,7 +100,7 @@
 		"name": "ODDZ-BNB Pair",
 		"symbol": "ODDZ-BNB",
 		"decimals": 18,
-		"token0": "0xCD40F2670CF58720b694968698A5514e924F742d",
-		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+		"token0": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+		"token1": "0xCD40F2670CF58720b694968698A5514e924F742d"
 	}
 ]
