@@ -94,5 +94,13 @@
 		"decimals": 18,
 		"token0": "0x0995d8643645Dd0CEa60ab1acFA5AD2f642273D3",
 		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+	},
+	{
+		"address": "0x3c2c77353E2F6AC1578807b6b2336Bf3a3CbB014",
+		"name": "ODDZ-BNB Pair",
+		"symbol": "ODDZ-BNB",
+		"decimals": 18,
+		"token0": "0xCD40F2670CF58720b694968698A5514e924F742d",
+		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
 	}
 ]
