@@ -1,9 +1,9 @@
 [{
   "name": "PancakeSwap",
   "address": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
-  "reward_token": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+  "rewardToken": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
 }, {
   "name": "ApeSwap",
   "address": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
-  "reward_token": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"
+  "rewardToken": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"
 }]
