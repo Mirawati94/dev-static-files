@@ -1,4 +1,6 @@
 {
-  "total_supply": "500,000,000",
-  "circulating_supply": "90,000,000"
+  "total_supply": 500000000,
+  "max_supply": 500000000,
+  "uncirculating_supply": 406750000,
+  "circulating_supply": 93250000
 }

@@ -428,5 +428,170 @@
         "pid": 1
       }
     ]
+  },
+  {
+    "address": "0xe65317017B06e5E30e06724B16171c4d0DD225C6",
+    "name": "BANANA",
+    "rewardToken": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+    "rewardVault": "0x78629BA63d5892193289E57bB274372C0c202e7A",
+    "startBlock": 9095319,
+    "endBlock": 10391318,
+    "stakingPools": [
+      {
+        "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+        "share": 100,
+        "pid": 0
+      }
+    ]
+  },
+  {
+    "address": "0x7a4f36000820Bd8FceD106F9CE4ac3a03A4dA395",
+    "name": "WBNB",
+    "rewardToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "rewardVault": "0xa9419d9D8E6797DA5D2CA26edB2c862bf00132e4",
+    "startBlock": 9207490,
+    "endBlock": 10935490,
+    "stakingPools": [
+      {
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "share": 50,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 50,
+        "pid": 1
+      }
+    ]
+  },
+  {
+    "address": "0x94a1F2e19Dbba1AF9Ef62704A02bF31c37a34C65",
+    "name": "HOT CROSS",
+    "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "rewardVault": "0xF46632a50b3EE76c23d62e57f29E08B9358547d3",
+    "startBlock": 9495159,
+    "endBlock": 10359160,
+    "stakingPools": [
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 100,
+        "pid": 0
+      }
+    ]
+  },
+  {
+    "address": "0xEb96216d313556334D460515DA18735f1343eB30",
+    "name": "HOT CROSS",
+    "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "rewardVault": "0x97D39C2BDF2612E3b65891Abb660f3B82d2ba697",
+    "startBlock": 9525476,
+    "endBlock": 11253477,
+    "stakingPools": [
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 100,
+        "pid": 0
+      }
+    ]
+  },
+  {
+    "address": "0xaf852AA4c6215045F13711AB8c3F0a6239Cf4444",
+    "name": "MCRN",
+    "rewardToken": "0xacb2d47827C9813AE26De80965845D80935afd0B",
+    "rewardVault": "0x9aE99965373C2F0800adFd277BAb397DECeEd8cA",
+    "startBlock": 9547742,
+    "endBlock": 11275742,
+    "stakingPools": [
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 100,
+        "pid": 0
+      }
+    ]
+  },
+  {
+    "address": "0xc42d513C5294Ce0AB27209eb0FF44D28d9aD683a",
+    "name": "FRONT",
+    "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+    "rewardVault": "0xA7F2A18350d72F3316a9Fe558c8B7F367FF2F929",
+    "startBlock": 9552333,
+    "endBlock": 10416332,
+    "stakingPools": [
+      {
+        "address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 30,
+        "pid": 1
+      }
+    ]
+  },
+  {
+    "address": "0x39FB14e803f4f7bC4738aCcA4Ce615830070FEBD",
+    "name": "UNO",
+    "rewardToken": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+    "rewardVault": "0x8d38c902A040590BD6086fDe7B543728cB30ff77",
+    "startBlock": 9689494,
+    "endBlock": 12281493,
+    "stakingPools": [
+      {
+        "address": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 30,
+        "pid": 1
+      }
+    ]
+  },
+  {
+    "address": "0x6D3431C0CC6D6fF848FD37aae4cAea774A4b6649",
+    "name": "ODDZ",
+    "rewardToken": "0xCD40F2670CF58720b694968698A5514e924F742d",
+    "rewardVault": "0x5a1FD450C6C2d8E552a930ffdAbF0e9A9fccDD37",
+    "startBlock": 9800618,
+    "endBlock": 11528618,
+    "stakingPools": [
+      {
+        "address": "0x3c2c77353E2F6AC1578807b6b2336Bf3a3CbB014",
+        "share": 35,
+        "pid": 0
+      },
+      {
+        "address": "0xCD40F2670CF58720b694968698A5514e924F742d",
+        "share": 35,
+        "pid": 1
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 30,
+        "pid": 2
+      }
+    ]
+  },
+  {
+    "address": "0x842F5FF6cfD40a2CF571B1921e36c81104e2d416",
+    "name": "MARSH",
+    "rewardToken": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
+    "rewardVault": "0x05B47954B33B1E05670Ef71CcCC56b88497e582c",
+    "startBlock": 10138430,
+    "endBlock": 12730430,
+    "stakingPools": [
+      {
+        "address": "0x222f93187f15f354d41ff6a7703ef7e18cdd5103",
+        "share": 80,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 20,
+        "pid": 1
+      }
+    ]
   }
 ]

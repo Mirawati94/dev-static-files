@@ -100,5 +100,23 @@
 		"name": "OddzToken",
 		"symbol": "ODDZ",
 		"decimals": 18
+	},
+	{
+		"address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+		"name": "ApeSwapFinance Banana",
+		"symbol": "BANANA",
+		"decimals": 18
+	},
+	{
+		"address": "0xacb2d47827C9813AE26De80965845D80935afd0B",
+		"name": "MacaronSwap Token",
+		"symbol": "MCRN",
+		"decimals": 18
+	},
+	{
+		"address": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+		"name": "UnoRe",
+		"symbol": "UNO",
+		"decimals": 18
 	}
 ]
