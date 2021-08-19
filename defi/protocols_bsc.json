@@ -1,9 +1,0 @@
-{
-  "masterchef": [{
-    "name": "PancakeSwap",
-    "address": "0x73feaa1eE314F8c655E354234017bE2193C9E24E"
-  }, {
-    "name": "ApeSwap",
-    "address": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9"
-  }]
-}
