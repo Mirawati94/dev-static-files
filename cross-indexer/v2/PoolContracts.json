@@ -1,19 +1,39 @@
 [
   {
-    "address": "0xFD136368365897d00e21a6420f58ba6F6a3E6009",
-    "name": "HOT CROSS",
-    "rewardToken": "0x8FD04009bcb9DE9aaf6756039571EdF89262E625",
-    "rewardVault": "0x8E52F83b1b721EE7DADA51E03A5EE5e2595437B0",
-    "startBlock": 11565571,
-    "endBlock": 13293571,
+    "address": "0x4645E053139350b3853F1e383a301E3FD967bc24",
+    "name": "CAKE",
+    "rewardTokens": ["0xcDB9a17F85471c21bbfAF4202F84d02563866636"],
+    "rewardVault": "0x7A808c98B5dF69bA5090B64292F3989344a4163A",
+    "startBlock": 12025806,
+    "endBlock": 12889807,
     "stakingPools": [
       {
-        "address": "0x8FD04009bcb9DE9aaf6756039571EdF89262E625",
+        "address": "0x95b8CDAA97E0fb3B64cEfA9FA1C47C99B9de76E3",
         "share": 50,
         "pid": 0
       },
       {
-        "address": "0xC38c93d3269c89047b27f09cB00085210924F5fC",
+        "address": "0xcDB9a17F85471c21bbfAF4202F84d02563866636",
+        "share": 500,
+        "pid": 1
+      }
+    ]
+  },
+  {
+    "address": "0x89B378681fA05bb694542425282a8F344614560A",
+    "name": "HOT CROSS",
+    "rewardTokens": ["0x95b8CDAA97E0fb3B64cEfA9FA1C47C99B9de76E3"],
+    "rewardVault": "0xb01FA5667e2E89A3b146791FdbF7Ad1Ea68F4Bb3",
+    "startBlock": 12025806,
+    "endBlock": 12889806,
+    "stakingPools": [
+      {
+        "address": "0x95b8CDAA97E0fb3B64cEfA9FA1C47C99B9de76E3",
+        "share": 50,
+        "pid": 0
+      },
+      {
+        "address": "0xcDB9a17F85471c21bbfAF4202F84d02563866636",
         "share": 500,
         "pid": 1
       }
