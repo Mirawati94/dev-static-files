@@ -633,5 +633,25 @@
         "pid": 1
       }
     ]
+  },
+  {
+    "address": "0xEB21F5579E7e3D8751a4caa3B3A79D58e46A7105",
+    "name": "AVAX",
+    "rewardToken": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+    "rewardVault": "0xC1Bfb880aceE3AB44DD1F6D63A87c29927F4Da42",
+    "startBlock": 11080835,
+    "endBlock": 11944835,
+    "stakingPools": [
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 800,
+        "pid": 0
+      },
+      {
+        "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+        "share": 200,
+        "pid": 1
+      }
+    ]
   }
 ]
