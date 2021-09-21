@@ -1,11 +1,30 @@
 [
   {
+    "name": "PancakeSwap",
+    "address": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
+    "rewardToken": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "rewardPerBlockPropName": "cakePerBlock",
+    "pollCountPropName": "poolLength",
+    "hasBonusMultiplier": true,
+    "abiType": "original"
+  },
+  {
+    "name": "ApeSwap",
+    "address": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
+    "rewardToken": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+    "rewardPerBlockPropName": "cakePerBlock",
+    "pollCountPropName": "poolLength",
+    "hasBonusMultiplier": true,
+    "abiType": "original"
+  },
+  {
     "name": "HAKA Pool",
     "address": "0xd905BA2b0e8f156173BEE64089FE52bBEd655920",
     "rewardToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
     "rewardPerBlockPropName": "rewardPerBlock",
     "pollCountPropName": "getPoolCount",
-    "hasBonusMultiplier": false
+    "hasBonusMultiplier": false,
+    "abiType": "crossPool"
   },
   {
     "name": "MARSH Pool",
@@ -13,7 +32,8 @@
     "rewardToken": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
     "rewardPerBlockPropName": "rewardPerBlock",
     "pollCountPropName": "getPoolCount",
-    "hasBonusMultiplier": false
+    "hasBonusMultiplier": false,
+    "abiType": "crossPool"
   },
   {
     "name": "FRONT Pool",
@@ -21,7 +41,8 @@
     "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
     "rewardPerBlockPropName": "rewardPerBlock",
     "pollCountPropName": "getPoolCount",
-    "hasBonusMultiplier": false
+    "hasBonusMultiplier": false,
+    "abiType": "crossPool"
   },
   {
     "name": "ODDZ Pool",
@@ -29,7 +50,8 @@
     "rewardToken": "0xCD40F2670CF58720b694968698A5514e924F742d",
     "rewardPerBlockPropName": "rewardPerBlock",
     "pollCountPropName": "getPoolCount",
-    "hasBonusMultiplier": false
+    "hasBonusMultiplier": false,
+    "abiType": "crossPool"
   },
   {
     "name": "MCRN Pool",
@@ -37,7 +59,8 @@
     "rewardToken": "0xacb2d47827C9813AE26De80965845D80935afd0B",
     "rewardPerBlockPropName": "rewardPerBlock",
     "pollCountPropName": "getPoolCount",
-    "hasBonusMultiplier": false
+    "hasBonusMultiplier": false,
+    "abiType": "crossPool"
   },
   {
     "name": "GUM Pool",
@@ -45,7 +68,8 @@
     "rewardToken": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
     "rewardPerBlockPropName": "rewardPerBlock",
     "pollCountPropName": "getPoolCount",
-    "hasBonusMultiplier": false
+    "hasBonusMultiplier": false,
+    "abiType": "crossPool"
   },
   {
     "name": "UNO Pool",
@@ -53,6 +77,7 @@
     "rewardToken": "0x474021845C4643113458ea4414bdb7fB74A01A77",
     "rewardPerBlockPropName": "rewardPerBlock",
     "pollCountPropName": "getPoolCount",
-    "hasBonusMultiplier": false
+    "hasBonusMultiplier": false,
+    "abiType": "original"
   }
 ]
