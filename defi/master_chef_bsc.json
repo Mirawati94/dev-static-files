@@ -1,21 +1,5 @@
 [
   {
-    "name": "PancakeSwap",
-    "address": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
-    "rewardToken": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
-    "rewardPerBlockPropName": "cakePerBlock",
-    "pollCountPropName": "poolLength",
-    "hasBonusMultiplier": true
-  },
-  {
-    "name": "ApeSwap",
-    "address": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
-    "rewardToken": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
-    "rewardPerBlockPropName": "cakePerBlock",
-    "pollCountPropName": "poolLength",
-    "hasBonusMultiplier": true
-  },
-  {
     "name": "HAKA Pool",
     "address": "0xd905BA2b0e8f156173BEE64089FE52bBEd655920",
     "rewardToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
