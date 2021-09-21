@@ -78,6 +78,6 @@
     "rewardPerBlockPropName": "rewardPerBlock",
     "poolCountPropName": "getPoolCount",
     "hasBonusMultiplier": false,
-    "abiType": "original"
+    "abiType": "crossPool"
   }
 ]
