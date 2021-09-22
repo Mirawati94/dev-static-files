@@ -36,7 +36,7 @@
     "blockNumber": 10696732,
     "name": "BANANA",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
-    "poolId": "0",
+    "poolId": 0,
     "crossYieldZap": "0x717D1534BDD7fE47cEB78EF6e903476a1Ad911D6",
     "feeManager": "0xfD1b7CAC56BB0cF8454f0671B127C745e656582c",
     "amm": "ApeSwap"
