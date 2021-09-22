@@ -8,6 +8,7 @@
     "blockNumber": 10633939,
     "name": "CAKE",
     "masterchef": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
+    "poolId": 0,
     "crossYieldZap": "0x5dF76835476F2f1DB332c4Dd9Bc07b364DA75046",
     "feeManager": "0xEdB8657150191CddDc4fdb6e0D565c6191De26Ec",
     "amm": "PancakeSwap"
@@ -21,6 +22,7 @@
     "blockNumber": 10696691,
     "name": "HOTCROSS-BNB",
     "masterchef": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
+    "poolId": 386,
     "crossYieldZap": "0x5dF76835476F2f1DB332c4Dd9Bc07b364DA75046",
     "feeManager": "0xaCF9A415d1eff6633ba3324139B3C2f7924e2518",
     "amm": "PancakeSwap"
@@ -34,6 +36,7 @@
     "blockNumber": 10696732,
     "name": "BANANA",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
+    "poolId": "0",
     "crossYieldZap": "0x717D1534BDD7fE47cEB78EF6e903476a1Ad911D6",
     "feeManager": "0xfD1b7CAC56BB0cF8454f0671B127C745e656582c",
     "amm": "ApeSwap"
@@ -47,6 +50,7 @@
     "blockNumber": 10696769,
     "name": "HOTCROSS-BUSD",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
+    "poolId": 105,
     "crossYieldZap": "0x717D1534BDD7fE47cEB78EF6e903476a1Ad911D6",
     "feeManager": "0x3c6984EC0141B71470dEA1638C765b66349CdDd4",
     "amm": "ApeSwap"
