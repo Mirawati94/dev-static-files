@@ -25,7 +25,9 @@
     "poolId": 386,
     "crossYieldZap": "0x5dF76835476F2f1DB332c4Dd9Bc07b364DA75046",
     "feeManager": "0xaCF9A415d1eff6633ba3324139B3C2f7924e2518",
-    "amm": "PancakeSwap"
+    "amm": "PancakeSwap",
+    "isSizzle": "true",
+    "sizzleApr": 55
   },
   {
     "contractAddress": "0x8C1C5ab1F801Bf7dE1fe1221f0BAAB96366DfC0e",
