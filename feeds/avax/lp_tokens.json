@@ -1,8 +1,8 @@
 [
 	{
 		"address": "0x454e67025631c065d3cfad6d71e6892f74487a15",
-		"name": "JOE-WAVAX Pair",
-		"symbol": "JOE-WAVAX",
+		"name": "JOE-AVAX Pair",
+		"symbol": "JOE-AVAX",
 		"decimals": 18,
 		"token0": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
 		"token1": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
