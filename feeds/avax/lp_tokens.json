@@ -4,7 +4,7 @@
 		"name": "JOE-AVAX Pair",
 		"symbol": "JOE-AVAX",
 		"decimals": 18,
-		"token0": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
-		"token1": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+		"token0": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+		"token1": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
 	}
 ]
