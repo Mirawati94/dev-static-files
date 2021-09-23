@@ -653,5 +653,20 @@
         "pid": 1
       }
     ]
+  },
+  {
+    "address": "0xaA5F63132F61C4FA67D4D5b0e10ac89449e4AD3e",
+    "name": "HOT CROSS",
+    "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "rewardVault": "0x7a50B102320053197B5CC34AdDA4cE5618126293",
+    "startBlock": 11166738,
+    "endBlock": 12030738,
+    "stakingPools": [
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 100,
+        "pid": 0
+      }
+    ]
   }
 ]
