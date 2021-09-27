@@ -668,5 +668,20 @@
         "pid": 0
       }
     ]
+  },
+  {
+    "address": "0xc5E7a03f1701132ab9EAB29bedAc27cD4272107F",
+    "name": "MCRN",
+    "rewardToken": "0xacb2d47827C9813AE26De80965845D80935afd0B",
+    "rewardVault": "0x4cab31925BFA3359a94baf071C50BBFa06E01534",
+    "startBlock": 11281204,
+    "endBlock": 13009204,
+    "stakingPools": [
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 100,
+        "pid": 0
+      }
+    ]
   }
 ]
