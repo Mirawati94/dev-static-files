@@ -5,7 +5,7 @@
     "rewardToken": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
     "rewardPerBlockPropName": "cakePerBlock",
     "rewardInterval": "sec",
-    "rewardPercentage": 50,
+    "rewardPercentage": 0.5,
     "poolCountPropName": "poolLength",
     "hasBonusMultiplier": false,
     "abiType": "joe"
