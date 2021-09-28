@@ -3,7 +3,7 @@
     "name": "TradeJoe",
     "address": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
     "rewardToken": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
-    "rewardPerBlockPropName": "cakePerBlock",
+    "rewardPerBlockPropName": "joePerSec",
     "rewardInterval": "sec",
     "rewardPercentage": 0.5,
     "poolCountPropName": "poolLength",
