@@ -21,10 +21,11 @@
     "hasBonusMultiplier": true,
     "abiType": "original"
   },
+
   {
-    "name": "HAKA Pool",
-    "address": "0xd905BA2b0e8f156173BEE64089FE52bBEd655920",
-    "rewardToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+    "name": "HOTCROSS Pool",
+    "address": "0xaA5F63132F61C4FA67D4D5b0e10ac89449e4AD3e",
+    "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
     "rewardPerBlockPropName": "rewardPerBlock",
     "rewardInterval": "block",
     "rewardPercentage": 1,
@@ -33,20 +34,9 @@
     "abiType": "crossPool"
   },
   {
-    "name": "MARSH Pool",
-    "address": "0x842F5FF6cfD40a2CF571B1921e36c81104e2d416",
-    "rewardToken": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
-    "rewardPerBlockPropName": "rewardPerBlock",
-    "rewardInterval": "block",
-    "rewardPercentage": 1,
-    "poolCountPropName": "getPoolCount",
-    "hasBonusMultiplier": false,
-    "abiType": "crossPool"
-  },
-  {
-    "name": "FRONT Pool",
-    "address": "0xdFdF269C5e01c41325c426421Cb8d4E19a6eb707",
-    "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+    "name": "AVAX Pool",
+    "address": "0xEB21F5579E7e3D8751a4caa3B3A79D58e46A7105",
+    "rewardToken": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
     "rewardPerBlockPropName": "rewardPerBlock",
     "rewardInterval": "block",
     "rewardPercentage": 1,
@@ -66,8 +56,19 @@
     "abiType": "crossPool"
   },
   {
+    "name": "FRONT Pool",
+    "address": "0xdFdF269C5e01c41325c426421Cb8d4E19a6eb707",
+    "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+    "rewardPerBlockPropName": "rewardPerBlock",
+    "rewardInterval": "block",
+    "rewardPercentage": 1,
+    "poolCountPropName": "getPoolCount",
+    "hasBonusMultiplier": false,
+    "abiType": "crossPool"
+  },
+  {
     "name": "MCRN Pool",
-    "address": "0xaf852AA4c6215045F13711AB8c3F0a6239Cf4444",
+    "address": "0xc5E7a03f1701132ab9EAB29bedAc27cD4272107F",
     "rewardToken": "0xacb2d47827C9813AE26De80965845D80935afd0B",
     "rewardPerBlockPropName": "rewardPerBlock",
     "rewardInterval": "block",
@@ -77,9 +78,9 @@
     "abiType": "crossPool"
   },
   {
-    "name": "GUM Pool",
-    "address": "0x7F450B954c7B151c48d4629EaB0Fe2bAEd2780f1",
-    "rewardToken": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+    "name": "MARSH Pool",
+    "address": "0x842F5FF6cfD40a2CF571B1921e36c81104e2d416",
+    "rewardToken": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
     "rewardPerBlockPropName": "rewardPerBlock",
     "rewardInterval": "block",
     "rewardPercentage": 1,
@@ -97,5 +98,27 @@
     "poolCountPropName": "getPoolCount",
     "hasBonusMultiplier": false,
     "abiType": "crossPool"
-  }
+  },
+  {
+    "name": "HAKA Pool",
+    "address": "0xd905BA2b0e8f156173BEE64089FE52bBEd655920",
+    "rewardToken": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+    "rewardPerBlockPropName": "rewardPerBlock",
+    "rewardInterval": "block",
+    "rewardPercentage": 1,
+    "poolCountPropName": "getPoolCount",
+    "hasBonusMultiplier": false,
+    "abiType": "crossPool"
+  },
+  {
+    "name": "FRONT Pool",
+    "address": "0x47dD216582446C29790C1D928F04f746F1D7C5A9",
+    "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+    "rewardPerBlockPropName": "rewardPerBlock",
+    "rewardInterval": "block",
+    "rewardPercentage": 1,
+    "poolCountPropName": "getPoolCount",
+    "hasBonusMultiplier": false,
+    "abiType": "crossPool"
+  },
 ]
