@@ -120,5 +120,5 @@
     "poolCountPropName": "getPoolCount",
     "hasBonusMultiplier": false,
     "abiType": "crossPool"
-  },
+  }
 ]
