@@ -11,7 +11,8 @@
     "poolId": 0,
     "crossYieldZap": "0x5dF76835476F2f1DB332c4Dd9Bc07b364DA75046",
     "feeManager": "0xEdB8657150191CddDc4fdb6e0D565c6191De26Ec",
-    "platform": "PancakeSwap"
+    "platform": "PancakeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0xd9A107a411E50EC72731f5020aeF2d1e29281E3E",
@@ -27,7 +28,8 @@
     "feeManager": "0xaCF9A415d1eff6633ba3324139B3C2f7924e2518",
     "platform": "PancakeSwap",
     "isSizzle": "true",
-    "sizzleApr": 55
+    "sizzleApr": 55,
+    "retired": true
   },
   {
     "contractAddress": "0x8C1C5ab1F801Bf7dE1fe1221f0BAAB96366DfC0e",
@@ -41,7 +43,8 @@
     "poolId": 0,
     "crossYieldZap": "0x717D1534BDD7fE47cEB78EF6e903476a1Ad911D6",
     "feeManager": "0xfD1b7CAC56BB0cF8454f0671B127C745e656582c",
-    "platform": "ApeSwap"
+    "platform": "ApeSwap",
+    "retired": true
   },
   {
     "contractAddress": "0x7345dB2aa87Ad7f84d1B2d63dED2198EDe10557F",
@@ -55,6 +58,65 @@
     "poolId": 105,
     "crossYieldZap": "0x717D1534BDD7fE47cEB78EF6e903476a1Ad911D6",
     "feeManager": "0x3c6984EC0141B71470dEA1638C765b66349CdDd4",
+    "platform": "ApeSwap",
+    "retired": true
+  },
+  {
+    "contractAddress": "0x3E6F614ffdA9cd5e54676a3eAa70823766E5Fd59",
+    "strategy": "0xd7acc6B2c80633e058F1cE21a33CA59dEbeF4ea8",
+    "farmingToken": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "token0": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "token1": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "blockNumber": 11350605,
+    "name": "CAKE",
+    "masterchef": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
+    "poolId": 0,
+    "crossYieldZap": "0xcd591A5B551820afD43480b93Fe5c62BEC1E9c44",
+    "feeManager": "0xD11537983C69c4f1038672A9232D0046f0fbeA1c",
+    "platform": "PancakeSwap"
+  },
+  {
+    "contractAddress": "0x3c3989E5D576f9DC96C825589dc5e8dEF916140e",
+    "strategy": "0x965A1A32A42d22FDC83F12db25d90F04FcD04158",
+    "farmingToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+    "token0": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+    "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "blockNumber": 11350595,
+    "name": "HOTCROSS-BNB",
+    "masterchef": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
+    "poolId": 386,
+    "crossYieldZap": "0xcd591A5B551820afD43480b93Fe5c62BEC1E9c44",
+    "feeManager": "0xD11537983C69c4f1038672A9232D0046f0fbeA1c",
+    "platform": "PancakeSwap",
+    "isSizzle": "true",
+    "sizzleApr": 55
+  },
+  {
+    "contractAddress": "0x9FD20EDd8B0e25A0BD09678A51Dab62a042D1e5d",
+    "strategy": "0xB30F55E388Da8980eC2Cc8F1B3B9bd686fEeDC73",
+    "farmingToken": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+    "token0": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+    "token1": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+    "blockNumber": 11350573,
+    "name": "BANANA",
+    "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
+    "poolId": 0,
+    "crossYieldZap": "0xdf5B753A82a3c0Ea48e5bcf81D1FE7B7B170Aa9e",
+    "feeManager": "0xD11537983C69c4f1038672A9232D0046f0fbeA1c",
+    "platform": "ApeSwap"
+  },
+  {
+    "contractAddress": "0x298d8C6aC7B2e64E5aC61468040e1F066eCc204c",
+    "strategy": "0xc17D9e6Ed574Fd8a9f4D7d9D1B35467f70189289",
+    "farmingToken": "0x3B9Aa711D1D90A4f8639f66C227881729a3317F2",
+    "token0": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+    "token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "blockNumber": 11350582,
+    "name": "HOTCROSS-BUSD",
+    "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
+    "poolId": 105,
+    "crossYieldZap": "0xdf5B753A82a3c0Ea48e5bcf81D1FE7B7B170Aa9e",
+    "feeManager": "0xD11537983C69c4f1038672A9232D0046f0fbeA1c",
     "platform": "ApeSwap"
   }
 ]
