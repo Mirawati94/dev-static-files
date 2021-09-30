@@ -1,0 +1,60 @@
+[
+  {
+    "contractAddress": "0x3DEfe2C2BFEc00Ef066df00F13d06F8209C70477",
+    "strategy": "0x7027eb7855E9075e2ad8f32E308452ef5FD986Cc",
+    "farmingToken": "0x454e67025631c065d3cfad6d71e6892f74487a15",
+		"token0": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+		"token1": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "blockNumber": 5013827,
+    "name": "JOE-AVAX",
+    "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
+    "poolId": 0,
+    "crossYieldZap": "0xA4360B3DbD7C6B319a46AcBb7a8b51A2dF9FA59b",
+    "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
+    "platform": "TraderJoe"
+  },
+  {
+    "contractAddress": "0xBEec73Ad3434959C029Db53Fb48b15a4C6814B43",
+    "strategy": "0x3a42a096C2d93Ab5169F135a3AD2D04AD3788F0B",
+    "farmingToken": "0xfe15c2695f1f920da45c30aae47d11de51007af9",
+		"token0": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+		"token1": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+    "blockNumber": 5013791,
+    "name": "WETH.e-AVAX",
+    "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
+    "poolId": 26,
+    "crossYieldZap": "0xA4360B3DbD7C6B319a46AcBb7a8b51A2dF9FA59b",
+    "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
+    "platform": "TraderJoe",
+    "isSizzle": "true",
+    "sizzleApr": 55
+  },
+  {
+    "contractAddress": "0x40e5d1c43bb7A61D72F03a706C66668140695484",
+    "strategy": "0x82D185EA136a532EA6E8F8d5F9396cE414CD8d52",
+    "farmingToken": "0x67926d973cd8ee876ad210faaf7dffa99e414acf",
+		"token0": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+		"token1": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+    "blockNumber": 5013846,
+    "name": "JOE-USDC.e",
+    "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
+    "poolId": 58,
+    "crossYieldZap": "0xA4360B3DbD7C6B319a46AcBb7a8b51A2dF9FA59b",
+    "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
+    "platform": "TraderJoe"
+  },
+  {
+    "contractAddress": "0x5f639d9Bb6f1CE4f59f3643E5e3E3019f30E8862",
+    "strategy": "0x8855e42d75C421924442C7eF72428f76b40061F4",
+    "farmingToken": "0x1643de2efb8e35374d796297a9f95f64c082a8ce",
+		"token0": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+		"token1": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+    "blockNumber": 5013855,
+    "name": "JOE-USDT.e",
+    "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
+    "poolId": 30,
+    "crossYieldZap": "0xA4360B3DbD7C6B319a46AcBb7a8b51A2dF9FA59b",
+    "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
+    "platform": "TraderJoe"
+  }
+]
