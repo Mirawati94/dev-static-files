@@ -653,5 +653,75 @@
         "pid": 1
       }
     ]
+  },
+  {
+    "address": "0xaA5F63132F61C4FA67D4D5b0e10ac89449e4AD3e",
+    "name": "HOT CROSS",
+    "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "rewardVault": "0x7a50B102320053197B5CC34AdDA4cE5618126293",
+    "startBlock": 11166738,
+    "endBlock": 12030738,
+    "stakingPools": [
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 100,
+        "pid": 0
+      }
+    ]
+  },
+  {
+    "address": "0xc5E7a03f1701132ab9EAB29bedAc27cD4272107F",
+    "name": "MCRN",
+    "rewardToken": "0xacb2d47827C9813AE26De80965845D80935afd0B",
+    "rewardVault": "0x4cab31925BFA3359a94baf071C50BBFa06E01534",
+    "startBlock": 11281204,
+    "endBlock": 13009204,
+    "stakingPools": [
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 100,
+        "pid": 0
+      }
+    ]
+  },
+  {
+    "address": "0x47dD216582446C29790C1D928F04f746F1D7C5A9",
+    "name": "FRONT",
+    "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+    "rewardVault": "0x16f0470CA6b6194c7Bdaf39B8602955B0677775A",
+    "startBlock": 11339452,
+    "endBlock": 12203452,
+    "stakingPools": [
+      {
+        "address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 30,
+        "pid": 1
+      }
+    ]
+  },
+  {
+    "address": "0x4cFeB7cb8A854c69D9B796B4Ab624c3f1051917a",
+    "name": "CAKE",
+    "rewardToken": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "rewardVault": "0x88152382cFbA5c98A8C281c8AAB05b7A1c69D090",
+    "startBlock": 11480878,
+    "endBlock": 12344877,
+    "stakingPools": [
+      {
+        "address": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+        "share": 75,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 25,
+        "pid": 1
+      }
+    ]
   }
 ]
