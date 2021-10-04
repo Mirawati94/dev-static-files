@@ -703,5 +703,25 @@
         "pid": 1
       }
     ]
+  },
+  {
+    "address": "0x4cFeB7cb8A854c69D9B796B4Ab624c3f1051917a",
+    "name": "CAKE",
+    "rewardToken": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "rewardVault": "0x88152382cFbA5c98A8C281c8AAB05b7A1c69D090",
+    "startBlock": 11480878,
+    "endBlock": 12344877,
+    "stakingPools": [
+      {
+        "address": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+        "share": 75,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 25,
+        "pid": 1
+      }
+    ]
   }
 ]
