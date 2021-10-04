@@ -1,0 +1,128 @@
+[
+	{
+		"address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+		"name": "Hot Cross",
+		"symbol": "HOTCROSS",
+		"decimals": 18
+	},
+	{
+		"address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+		"name": "Binance coin",
+		"symbol": "BNB",
+		"decimals": 18
+	},
+	{
+		"address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+		"name": "Wrapped BNB",
+		"symbol": "WBNB",
+		"decimals": 18
+	},
+	{
+		"address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+		"name": "Binance USD",
+		"symbol": "BUSD",
+		"decimals": 18
+	},
+	{
+		"address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+		"name": "PancakeSwap",
+		"symbol": "CAKE",
+		"decimals": 18
+	},
+	{
+		"address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+		"name": "Frontier",
+		"symbol": "FRONT",
+		"decimals": 18
+	},
+	{
+		"address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+		"name": "Binance-Peg USD Coin",
+		"symbol": "USDC",
+		"decimals": 18
+	},
+	{
+		"address": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+		"name": "Gourmet Galaxy",
+		"symbol": "GUM",
+		"decimals": 18
+	},
+	{
+		"address": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
+		"name": "Unmarshal",
+		"symbol": "MARSH",
+		"decimals": 18
+	},
+	{
+		"address": "0x44754455564474a89358b2c2265883df993b12f0",
+		"name": "Zeroswap",
+		"symbol": "ZEE",
+		"decimals": 18
+	},
+	{
+		"address": "0x55d398326f99059fF775485246999027B3197955",
+		"name": "Binance-Peg BUSD-T",
+		"symbol": "USDT",
+		"decimals": 18
+	},
+	{
+		"address": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+		"name": "TribeOne",
+		"symbol": "HAKA",
+		"decimals": 18
+	},
+	{
+		"address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+		"name": "Binance-Peg Ethereum Token",
+		"symbol": "ETH",
+		"decimals": 18
+	},
+	{
+		"address": "0x0995d8643645Dd0CEa60ab1acFA5AD2f642273D3",
+		"name": "Kambria Yield Tuning Engine",
+		"symbol": "KYTE",
+		"decimals": 18
+	},
+	{
+		"address": "0x658e64ffcf40d240a43d52ca9342140316ae44fa",
+		"name": "OIN Finance",
+		"symbol": "OIN",
+		"decimals": 8
+	},
+	{
+		"address": "0xae1119b918f971f232fed504d48604d5fef7277f",
+		"name": "Lendefi",
+		"symbol": "LDFI",
+		"decimals": 18
+	},
+	{
+		"address": "0xCD40F2670CF58720b694968698A5514e924F742d",
+		"name": "OddzToken",
+		"symbol": "ODDZ",
+		"decimals": 18
+	},
+	{
+		"address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+		"name": "ApeSwapFinance Banana",
+		"symbol": "BANANA",
+		"decimals": 18
+	},
+	{
+		"address": "0xacb2d47827C9813AE26De80965845D80935afd0B",
+		"name": "MacaronSwap Token",
+		"symbol": "MCRN",
+		"decimals": 18
+	},
+	{
+		"address": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+		"name": "UnoRe",
+		"symbol": "UNO",
+		"decimals": 18
+	},
+  {
+		"address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+		"name": "Avalanche",
+		"symbol": "AVAX",
+		"decimals": 18
+  }
+]
