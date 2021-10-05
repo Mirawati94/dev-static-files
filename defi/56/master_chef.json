@@ -120,5 +120,16 @@
     "poolCountPropName": "getPoolCount",
     "hasBonusMultiplier": false,
     "abiType": "crossPool"
+  },
+  {
+    "name": "CAKE Pool",
+    "address": "0x4cFeB7cb8A854c69D9B796B4Ab624c3f1051917a",
+    "rewardToken": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "rewardPerBlockPropName": "rewardPerBlock",
+    "rewardInterval": "block",
+    "rewardPercentage": 1,
+    "poolCountPropName": "getPoolCount",
+    "hasBonusMultiplier": false,
+    "abiType": "crossPool"
   }
 ]
