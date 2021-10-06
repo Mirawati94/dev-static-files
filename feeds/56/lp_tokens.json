@@ -4,6 +4,8 @@
 		"name": "MARSH-BNB Pair",
 		"symbol": "MARSH-BNB",
 		"decimals": 18,
+		"token0Decimals": 18,
+		"token1Decimals": 18,
 		"token0": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
 		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
 	},
@@ -12,14 +14,18 @@
 		"name": "HOTCROSS-BNB Pair",
 		"symbol": "HOTCROSS-BNB",
 		"decimals": 18,
+		"token0Decimals": 18,
+		"token1Decimals": 18,
 		"token0": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
 		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
 	},
-  {
+	{
 		"address": "0x3b9aa711d1d90a4f8639f66c227881729a3317f2",
 		"name": "HOTCROSS-BUSD Pair",
 		"symbol": "HOTCROSS-BUSD",
 		"decimals": 18,
+		"token0Decimals": 18,
+		"token1Decimals": 18,
 		"token0": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
 		"token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56 "
 	},
@@ -28,6 +34,8 @@
 		"name": "CAKE-BNB Pair",
 		"symbol": "CAKE-BNB",
 		"decimals": 18,
+		"token0Decimals": 18,
+		"token1Decimals": 18,
 		"token0": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
 		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
 	},
@@ -36,6 +44,8 @@
 		"name": "BUSD-BNB Pair",
 		"symbol": "BUSD-BNB",
 		"decimals": 18,
+		"token0Decimals": 18,
+		"token1Decimals": 18,
 		"token0": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
 		"token1": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
 	},
@@ -44,6 +54,8 @@
 		"name": "FRONT-BNB Pair",
 		"symbol": "FRONT-BNB",
 		"decimals": 18,
+		"token0Decimals": 18,
+		"token1Decimals": 18,
 		"token0": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
 		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
 	},
@@ -52,6 +64,8 @@
 		"name": "USDT-BUSD Pair",
 		"symbol": "USDT-BUSD",
 		"decimals": 18,
+		"token0Decimals": 18,
+		"token1Decimals": 18,
 		"token0": "0x55d398326f99059ff775485246999027b3197955",
 		"token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
 	},
@@ -60,6 +74,8 @@
 		"name": "USDT-BUSD V1 Pair",
 		"symbol": "USDT-BUSD V1",
 		"decimals": 18,
+		"token0Decimals": 18,
+		"token1Decimals": 18,
 		"token0": "0x55d398326f99059ff775485246999027b3197955",
 		"token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
 	},
@@ -68,6 +84,8 @@
 		"name": "USDC-BUSD Pair",
 		"symbol": "USDC-BUSD",
 		"decimals": 18,
+		"token0Decimals": 18,
+		"token1Decimals": 18,
 		"token0": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
 		"token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
 	},
@@ -76,6 +94,8 @@
 		"name": "GUM-BNB Pair",
 		"symbol": "GUM-BNB",
 		"decimals": 18,
+		"token0Decimals": 18,
+		"token1Decimals": 18,
 		"token0": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
 		"token1": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462"
 	},
@@ -84,6 +104,8 @@
 		"name": "GUM-BUSD Pair",
 		"symbol": "GUM-BUSD",
 		"decimals": 18,
+		"token0Decimals": 18,
+		"token1Decimals": 18,
 		"token0": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
 		"token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
 	},
@@ -92,6 +114,8 @@
 		"name": "HAKA-BNB Pair",
 		"symbol": "HAKA-BNB",
 		"decimals": 18,
+		"token0Decimals": 18,
+		"token1Decimals": 18,
 		"token0": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
 		"token1": "0xD85AD783cc94bd04196a13DC042A3054a9B52210"
 	},
@@ -100,6 +124,8 @@
 		"name": "KYTE-BNB Pair",
 		"symbol": "KYTE-BNB",
 		"decimals": 18,
+		"token0Decimals": 18,
+		"token1Decimals": 18,
 		"token0": "0x0995d8643645Dd0CEa60ab1acFA5AD2f642273D3",
 		"token1": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
 	},
@@ -108,6 +134,8 @@
 		"name": "ODDZ-BNB Pair",
 		"symbol": "ODDZ-BNB",
 		"decimals": 18,
+		"token0Decimals": 18,
+		"token1Decimals": 18,
 		"token0": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
 		"token1": "0xCD40F2670CF58720b694968698A5514e924F742d"
 	}
