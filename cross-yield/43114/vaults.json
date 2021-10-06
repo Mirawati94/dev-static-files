@@ -27,7 +27,7 @@
     "crossYieldZap": "0x16a123E36aA37e9F83f29373dcBB16043c45875d",
     "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
     "platform": "TraderJoe",
-    "isSizzle": "true",
+    "isSizzle": true,
     "sizzleApr": 55,
     "retired": true
   },
@@ -62,12 +62,12 @@
     "retired": true
   },
   {
-    "contractAddress": "0x7c512687a88AeBe5EbA790ea1fC0d8Eb813F1C91",
-    "strategy": "0x56D754aF2A09B46Ebc0aa4396b510157dde2A6b2",
+    "contractAddress": "0xDF5d082cD5B6AC28bB1DC11120ce7B618eD66626",
+    "strategy": "0x68b30615Cc920CaA492D31180fd16A5C828d1eC2",
     "farmingToken": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
     "token0": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
     "token1": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
-    "blockNumber": 5281101,
+    "blockNumber": 5288273,
     "name": "JOE",
     "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
     "poolId": 24,
@@ -102,7 +102,7 @@
     "crossYieldZap": "0x16a123E36aA37e9F83f29373dcBB16043c45875d",
     "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
     "platform": "TraderJoe",
-    "isSizzle": "true",
+    "isSizzle": true,
     "sizzleApr": 55
   },
   {

@@ -27,7 +27,7 @@
     "crossYieldZap": "0xc39183A310B136231E89b59cCD02749530A7AfC5",
     "feeManager": "0xaCF9A415d1eff6633ba3324139B3C2f7924e2518",
     "platform": "PancakeSwap",
-    "isSizzle": "true",
+    "isSizzle": true,
     "sizzleApr": 55,
     "retired": true
   },
@@ -88,7 +88,7 @@
     "crossYieldZap": "0xc39183A310B136231E89b59cCD02749530A7AfC5",
     "feeManager": "0xD11537983C69c4f1038672A9232D0046f0fbeA1c",
     "platform": "PancakeSwap",
-    "isSizzle": "true",
+    "isSizzle": true,
     "sizzleApr": 55
   },
   {
