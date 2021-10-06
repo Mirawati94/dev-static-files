@@ -9,9 +9,10 @@
     "name": "JOE-AVAX",
     "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
     "poolId": 0,
-    "crossYieldZap": "0x4BD45C9BB11DC5c82D77647eDe6A613D08b6377F",
+    "crossYieldZap": "0x16a123E36aA37e9F83f29373dcBB16043c45875d",
     "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
-    "platform": "TraderJoe"
+    "platform": "TraderJoe",
+    "retired": true
   },
   {
     "contractAddress": "0x307965E5e0AAB2E3474C3a5FFAeb015802cD9198",
@@ -23,11 +24,12 @@
     "name": "WETH.e-AVAX",
     "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
     "poolId": 26,
-    "crossYieldZap": "0x4BD45C9BB11DC5c82D77647eDe6A613D08b6377F",
+    "crossYieldZap": "0x16a123E36aA37e9F83f29373dcBB16043c45875d",
     "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
     "platform": "TraderJoe",
     "isSizzle": "true",
-    "sizzleApr": 55
+    "sizzleApr": 55,
+    "retired": true
   },
   {
     "contractAddress": "0xb2897547f232e6Df1Be62B2b27F055c5BE61d1Ab",
@@ -39,9 +41,10 @@
     "name": "JOE-USDC.e",
     "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
     "poolId": 58,
-    "crossYieldZap": "0x4BD45C9BB11DC5c82D77647eDe6A613D08b6377F",
+    "crossYieldZap": "0x16a123E36aA37e9F83f29373dcBB16043c45875d",
     "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
-    "platform": "TraderJoe"
+    "platform": "TraderJoe",
+    "retired": true
   },
   {
     "contractAddress": "0x3D2c8d43ee19300E391fDa58E013d3369B1ED4b8",
@@ -53,7 +56,80 @@
     "name": "JOE-USDT.e",
     "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
     "poolId": 30,
-    "crossYieldZap": "0x4BD45C9BB11DC5c82D77647eDe6A613D08b6377F",
+    "crossYieldZap": "0x16a123E36aA37e9F83f29373dcBB16043c45875d",
+    "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
+    "platform": "TraderJoe",
+    "retired": true
+  },
+  {
+    "contractAddress": "0x7c512687a88AeBe5EbA790ea1fC0d8Eb813F1C91",
+    "strategy": "0x56D754aF2A09B46Ebc0aa4396b510157dde2A6b2",
+    "farmingToken": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+    "token0": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+    "token1": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+    "blockNumber": 5281101,
+    "name": "JOE",
+    "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
+    "poolId": 24,
+    "crossYieldZap": "0x16a123E36aA37e9F83f29373dcBB16043c45875d",
+    "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
+    "platform": "TraderJoe"
+  },
+  {
+    "contractAddress": "0x107F215d1dC60445F1997a24C3BC39732B18624a",
+    "strategy": "0xF6Eba4C52Bdd487A3fA6DE4636DceBb89e46BbEe",
+    "farmingToken": "0x454e67025631c065d3cfad6d71e6892f74487a15",
+    "token0": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+    "token1": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "blockNumber": 5281101,
+    "name": "JOE-AVAX",
+    "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
+    "poolId": 0,
+    "crossYieldZap": "0x16a123E36aA37e9F83f29373dcBB16043c45875d",
+    "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
+    "platform": "TraderJoe"
+  },
+  {
+    "contractAddress": "0xaa8e28E7ef11143cD30812d95ff6D0Ee5Cc80e19",
+    "strategy": "0x3fA5b0873487c6bcbE397aAbDaCf47c823E376b1",
+    "farmingToken": "0xfe15c2695f1f920da45c30aae47d11de51007af9",
+    "token0": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+    "token1": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+    "blockNumber": 5281090,
+    "name": "WETH.e-AVAX",
+    "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
+    "poolId": 26,
+    "crossYieldZap": "0x16a123E36aA37e9F83f29373dcBB16043c45875d",
+    "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
+    "platform": "TraderJoe",
+    "isSizzle": "true",
+    "sizzleApr": 55
+  },
+  {
+    "contractAddress": "0x9F56425C2406101b3b905Ee5F60e4b575e37Ed5b",
+    "strategy": "0x7d17b251b945946c30DCdfbc7a360e7194958952",
+    "farmingToken": "0x67926d973cd8ee876ad210faaf7dffa99e414acf",
+    "token0": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+    "token1": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+    "blockNumber": 5281082,
+    "name": "JOE-USDC.e",
+    "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
+    "poolId": 58,
+    "crossYieldZap": "0x16a123E36aA37e9F83f29373dcBB16043c45875d",
+    "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
+    "platform": "TraderJoe"
+  },
+  {
+    "contractAddress": "0x5bF0de084Ab089c5a22beA6D3Db0D74603152fc4",
+    "strategy": "0x0cAf0fa30e64841e0d5F70777823c9D571E02B31",
+    "farmingToken": "0x1643de2efb8e35374d796297a9f95f64c082a8ce",
+    "token0": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+    "token1": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+    "blockNumber": 5281180,
+    "name": "JOE-USDT.e",
+    "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
+    "poolId": 30,
+    "crossYieldZap": "0x16a123E36aA37e9F83f29373dcBB16043c45875d",
     "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
     "platform": "TraderJoe"
   }
