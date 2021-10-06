@@ -71,7 +71,7 @@
     "name": "CAKE",
     "masterchef": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
     "poolId": 0,
-    "crossYieldZap": "0xcd591A5B551820afD43480b93Fe5c62BEC1E9c44",
+    "crossYieldZap": "0x6F585677d3F3681B5a26A5B015Cd84C689B602b1",
     "feeManager": "0xD11537983C69c4f1038672A9232D0046f0fbeA1c",
     "platform": "PancakeSwap"
   },
@@ -85,7 +85,7 @@
     "name": "HOTCROSS-BNB",
     "masterchef": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
     "poolId": 386,
-    "crossYieldZap": "0xcd591A5B551820afD43480b93Fe5c62BEC1E9c44",
+    "crossYieldZap": "0x6F585677d3F3681B5a26A5B015Cd84C689B602b1",
     "feeManager": "0xD11537983C69c4f1038672A9232D0046f0fbeA1c",
     "platform": "PancakeSwap",
     "isSizzle": "true",
@@ -101,7 +101,7 @@
     "name": "BANANA",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 0,
-    "crossYieldZap": "0xdf5B753A82a3c0Ea48e5bcf81D1FE7B7B170Aa9e",
+    "crossYieldZap": "0x30162915b5851C2B1aE26C12796b21362F1d786A",
     "feeManager": "0xD11537983C69c4f1038672A9232D0046f0fbeA1c",
     "platform": "ApeSwap"
   },
@@ -115,7 +115,7 @@
     "name": "HOTCROSS-BUSD",
     "masterchef": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9",
     "poolId": 105,
-    "crossYieldZap": "0xdf5B753A82a3c0Ea48e5bcf81D1FE7B7B170Aa9e",
+    "crossYieldZap": "0x30162915b5851C2B1aE26C12796b21362F1d786A",
     "feeManager": "0xD11537983C69c4f1038672A9232D0046f0fbeA1c",
     "platform": "ApeSwap"
   }

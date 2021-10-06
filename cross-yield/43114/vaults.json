@@ -9,7 +9,7 @@
     "name": "JOE-AVAX",
     "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
     "poolId": 0,
-    "crossYieldZap": "0xA4360B3DbD7C6B319a46AcBb7a8b51A2dF9FA59b",
+    "crossYieldZap": "0x4BD45C9BB11DC5c82D77647eDe6A613D08b6377F",
     "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
     "platform": "TraderJoe"
   },
@@ -23,7 +23,7 @@
     "name": "WETH.e-AVAX",
     "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
     "poolId": 26,
-    "crossYieldZap": "0xA4360B3DbD7C6B319a46AcBb7a8b51A2dF9FA59b",
+    "crossYieldZap": "0x4BD45C9BB11DC5c82D77647eDe6A613D08b6377F",
     "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
     "platform": "TraderJoe",
     "isSizzle": "true",
@@ -39,7 +39,7 @@
     "name": "JOE-USDC.e",
     "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
     "poolId": 58,
-    "crossYieldZap": "0xA4360B3DbD7C6B319a46AcBb7a8b51A2dF9FA59b",
+    "crossYieldZap": "0x4BD45C9BB11DC5c82D77647eDe6A613D08b6377F",
     "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
     "platform": "TraderJoe"
   },
@@ -53,7 +53,7 @@
     "name": "JOE-USDT.e",
     "masterchef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052",
     "poolId": 30,
-    "crossYieldZap": "0xA4360B3DbD7C6B319a46AcBb7a8b51A2dF9FA59b",
+    "crossYieldZap": "0x4BD45C9BB11DC5c82D77647eDe6A613D08b6377F",
     "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
     "platform": "TraderJoe"
   }
