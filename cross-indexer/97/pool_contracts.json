@@ -13,5 +13,45 @@
         "pid": 0
       }
     ]
+  },
+  {
+    "address": "0xBc0DC3973211C0352E206C1f61702756956C3fea",
+    "name": "CAKE",
+    "rewardToken": "0xcDB9a17F85471c21bbfAF4202F84d02563866636",
+    "rewardVault": "0x79e4BEB2a28b352Ff0990371E15211439680d31E",
+    "startBlock": 13011161,
+    "endBlock": 13875160,
+    "stakingPools": [
+      {
+        "address": "0x522d4F721431E4e969A97d6ceDA522942F7cbC54",
+        "share": 75,
+        "pid": 0
+      },
+      {
+        "address": "0x95b8CDAA97E0fb3B64cEfA9FA1C47C99B9de76E3",
+        "share": 25,
+        "pid": 0
+      }
+    ]
+  },
+  {
+    "address": "0x3f63e2869889EC423dD6F8AA65591bB651797a62",
+    "name": "FRONT",
+    "rewardToken": "0x24e5E59739A74Cc68789858A05Dc5786c853c902",
+    "rewardVault": "0xf6c5c87a2dD124C88FAD4601CB53f26F617AE187",
+    "startBlock": 13011160,
+    "endBlock": 13875160,
+    "stakingPools": [
+      {
+        "address": "0x24e5E59739A74Cc68789858A05Dc5786c853c902",
+        "share": 70,
+        "pid": 0
+      },
+      {
+        "address": "0x95b8CDAA97E0fb3B64cEfA9FA1C47C99B9de76E3",
+        "share": 30,
+        "pid": 0
+      }
+    ]
   }
 ]
