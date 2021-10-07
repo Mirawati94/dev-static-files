@@ -30,7 +30,7 @@
       {
         "address": "0x95b8CDAA97E0fb3B64cEfA9FA1C47C99B9de76E3",
         "share": 25,
-        "pid": 0
+        "pid": 1
       }
     ]
   },
@@ -50,7 +50,7 @@
       {
         "address": "0x95b8CDAA97E0fb3B64cEfA9FA1C47C99B9de76E3",
         "share": 30,
-        "pid": 0
+        "pid": 1
       }
     ]
   }
