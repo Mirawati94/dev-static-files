@@ -1,0 +1,64 @@
+{
+  "tokens": [
+    {
+      "address": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+      "name": "HOTCROSS-BNB Pair",
+      "symbol": "HOTCROSS-BNB",
+      "decimals": 18,
+      "type": "lp",
+      "buyTokenSymbol": "HOTCROSS",
+      "buyTokenLink": "https://pancakeswap.finance/swap?outputCurrency=0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "addLiquidityLink": "https://pancakeswap.finance/add/BNB/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "tokenA": {
+        "image": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "symbol": "HOTCROSS"
+      },
+      "tokenB": {
+        "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/binance/info/logo.png",
+        "address": "BNB",
+        "symbol": "BNB"
+      }
+    },
+    {
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "name": "Binance USD",
+      "decimals": 18,
+      "symbol": "BUSD"
+    },
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "name": "BNB",
+      "decimals": 18,
+      "symbol": "BNB"
+    }
+  ],
+  "purchase": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915",
+  "offeringTokenImage": "https://github.com/hotcrosscom/assets/blob/master/blockchains/smartchain/assets/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6/logo.png?raw=true",
+  "basic": {
+    "buyWith": ["0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915", "0xe9e7cea3dedca5984780bafc599bd69add087d56", "0x0000000000000000000000000000000000000000"],
+    "entryWith": "LP",
+    "purchaseToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915"
+  },
+  "unlimited": {
+    "buyWith": ["0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915", "0xe9e7cea3dedca5984780bafc599bd69add087d56", "0x0000000000000000000000000000000000000000"],
+    "entryWith": "LP",
+    "purchaseToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915"
+  },
+  "announcement": "https://hotcross.link/HELLO-PONTOON",
+  "logo": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/7593152390.png",
+	"headerBg": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/9846045109.png",
+	"name": "Pontoon",
+  "description": "Pontoon is one-click liquidity mirror protocol for cross chain which aims to resolve fragmentation and composability concerns in the ecosystem in a complete trustless way.",
+  "isPending": true,
+  "kycDeadline": 1634947199000,
+  "links" : {
+    "website": "https://pontoon.fi/",
+    "twitter": "https://twitter.com/PontoonFi/",
+    "github": "https://github.com/pontoonfi/pontoon",
+    "tg": "https://t.me/pontoon_fi",
+    "audits": "https://github.com/pontoonfi/audits"
+  }
+}
