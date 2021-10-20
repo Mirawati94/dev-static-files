@@ -26,8 +26,7 @@
     "crossYieldZap": "0xc39183A310B136231E89b59cCD02749530A7AfC5",
     "feeManager": "0xD11537983C69c4f1038672A9232D0046f0fbeA1c",
     "platform": "PancakeSwap",
-    "isSizzle": true,
-    "sizzleApr": 55
+    "sizzlePool": "0xaA5F63132F61C4FA67D4D5b0e10ac89449e4AD3e"
   },
   {
     "contractAddress": "0x9FD20EDd8B0e25A0BD09678A51Dab62a042D1e5d",
