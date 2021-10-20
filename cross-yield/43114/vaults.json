@@ -39,9 +39,7 @@
     "poolId": 26,
     "crossYieldZap": "0x16a123E36aA37e9F83f29373dcBB16043c45875d",
     "feeManager": "0xF5Fe9b2C7a6D2bBA490e2fafCD63547457Dd950e",
-    "platform": "TraderJoe",
-    "isSizzle": true,
-    "sizzleApr": 55
+    "platform": "TraderJoe"
   },
   {
     "contractAddress": "0x9F56425C2406101b3b905Ee5F60e4b575e37Ed5b",
