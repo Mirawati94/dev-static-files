@@ -26,10 +26,11 @@
     "crossYieldZap": "0xc39183A310B136231E89b59cCD02749530A7AfC5",
     "feeManager": "0xD11537983C69c4f1038672A9232D0046f0fbeA1c",
     "platform": "PancakeSwap",
-    "sizzle": {
+    "sizzlePool": {
       "address": "0x4cFeB7cb8A854c69D9B796B4Ab624c3f1051917a",
-      "pid": "0"
-      }
+      "pid": "0",
+      "farmingToken": "0xF23BAD605E94dE0e3B60c9718a43A94A5aF43915"
+    }
   },
   {
     "contractAddress": "0x9FD20EDd8B0e25A0BD09678A51Dab62a042D1e5d",
