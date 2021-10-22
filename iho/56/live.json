@@ -53,7 +53,7 @@
 	"name": "Pontoon",
   "description": "Pontoon is one-click liquidity mirror protocol for cross chain which aims to resolve fragmentation and composability concerns in the ecosystem in a complete trustless way.",
   "isPending": true,
-  "kycDeadline": 1634947199000,
+  "kycDeadline": 1635119999000,
   "links" : {
     "website": "https://pontoon.fi/",
     "twitter": "https://twitter.com/PontoonFi/",
