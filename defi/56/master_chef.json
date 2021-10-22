@@ -45,39 +45,6 @@
     "abiType": "crossPool"
   },
   {
-    "name": "AVAX Pool",
-    "address": "0xEB21F5579E7e3D8751a4caa3B3A79D58e46A7105",
-    "rewardToken": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
-    "rewardPerBlockPropName": "rewardPerBlock",
-    "rewardInterval": "block",
-    "rewardPercentage": 1,
-    "poolCountPropName": "getPoolCount",
-    "hasBonusMultiplier": false,
-    "abiType": "crossPool"
-  },
-  {
-    "name": "ODDZ Pool",
-    "address": "0x6D3431C0CC6D6fF848FD37aae4cAea774A4b6649",
-    "rewardToken": "0xCD40F2670CF58720b694968698A5514e924F742d",
-    "rewardPerBlockPropName": "rewardPerBlock",
-    "rewardInterval": "block",
-    "rewardPercentage": 1,
-    "poolCountPropName": "getPoolCount",
-    "hasBonusMultiplier": false,
-    "abiType": "crossPool"
-  },
-  {
-    "name": "FRONT Pool",
-    "address": "0xdFdF269C5e01c41325c426421Cb8d4E19a6eb707",
-    "rewardToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
-    "rewardPerBlockPropName": "rewardPerBlock",
-    "rewardInterval": "block",
-    "rewardPercentage": 1,
-    "poolCountPropName": "getPoolCount",
-    "hasBonusMultiplier": false,
-    "abiType": "crossPool"
-  },
-  {
     "name": "MCRN Pool",
     "address": "0xc5E7a03f1701132ab9EAB29bedAc27cD4272107F",
     "rewardToken": "0xacb2d47827C9813AE26De80965845D80935afd0B",
