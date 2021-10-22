@@ -34,6 +34,17 @@
     "abiType": "crossPool"
   },
   {
+    "name": "HOTCROSS Pool",
+    "address": "0x5C079438902B0229b3c55c6221bEd3A321F891A3",
+    "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "rewardPerBlockPropName": "rewardPerBlock",
+    "rewardInterval": "block",
+    "rewardPercentage": 1,
+    "poolCountPropName": "getPoolCount",
+    "hasBonusMultiplier": false,
+    "abiType": "crossPool"
+  },
+  {
     "name": "AVAX Pool",
     "address": "0xEB21F5579E7e3D8751a4caa3B3A79D58e46A7105",
     "rewardToken": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
