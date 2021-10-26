@@ -5,40 +5,41 @@
 		"symbol": "JOE",
 		"decimals": 18
 	},
-  {
+	{
 		"address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
 		"name": "Avalanche",
 		"symbol": "AVAX",
 		"decimals": 18
-  },
-  {
+	},
+	{
 		"address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
 		"name": "Wrapped Avalanche",
 		"symbol": "WAVAX",
 		"decimals": 18
-  },
-  {
+	},
+	{
 		"address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
 		"name": "Wrapped Ether",
 		"symbol": "WETH.e",
 		"decimals": 18
-  },
-  {
+	},
+	{
 		"address": "0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33",
 		"name": "JoeBar",
 		"symbol": "xJOE",
-		"decimals": 18
-  },
-  {
+		"decimals": 18,
+		"custom": true
+	},
+	{
 		"address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
 		"name": "Tether USD",
 		"symbol": "USDT.e",
 		"decimals": 6
-  },
-  {
+	},
+	{
 		"address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
 		"name": "USD Coin",
 		"symbol": "USDC.e",
 		"decimals": 6
-  }
+	}
 ]
