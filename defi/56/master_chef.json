@@ -120,5 +120,16 @@
     "poolCountPropName": "getPoolCount",
     "hasBonusMultiplier": false,
     "abiType": "crossPool"
+  },
+  {
+    "name": "UNO Pool",
+    "address": "0x5454cDE94Ce1072f5615D6C217bb6f92fdD75D27",
+    "rewardToken": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+    "rewardPerBlockPropName": "rewardPerBlock",
+    "rewardInterval": "block",
+    "rewardPercentage": 1,
+    "poolCountPropName": "getPoolCount",
+    "hasBonusMultiplier": false,
+    "abiType": "crossPool"
   }
 ]
