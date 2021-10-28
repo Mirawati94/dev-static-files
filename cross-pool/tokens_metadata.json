@@ -124,5 +124,11 @@
 		"name": "Avalanche",
 		"symbol": "AVAX",
 		"decimals": 18
+  },
+	{
+		"address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+		"name": "PontoonToken",
+		"symbol": "TOON",
+		"decimals": 18
   }
 ]
