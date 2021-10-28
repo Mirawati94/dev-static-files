@@ -142,5 +142,27 @@
     "poolCountPropName": "getPoolCount",
     "hasBonusMultiplier": false,
     "abiType": "crossPool"
+  },
+  {
+    "name": "TOON Pool",
+    "address": "0xE3fdA64201F07aAA56ED9c1328DFAA4eC60576a9",
+    "rewardToken": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+    "rewardPerBlockPropName": "rewardPerBlock",
+    "rewardInterval": "block",
+    "rewardPercentage": 1,
+    "poolCountPropName": "getPoolCount",
+    "hasBonusMultiplier": false,
+    "abiType": "crossPool"
+  },
+  {
+    "name": "HOTCROSS Pool",
+    "address": "0x2D6a020c8073107DCadbFD114489823E7f186436",
+    "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "rewardPerBlockPropName": "rewardPerBlock",
+    "rewardInterval": "block",
+    "rewardPercentage": 1,
+    "poolCountPropName": "getPoolCount",
+    "hasBonusMultiplier": false,
+    "abiType": "crossPool"
   }
 ]

@@ -793,5 +793,40 @@
         "pid": 1
       }
     ]
+  },
+  {
+    "address": "0xE3fdA64201F07aAA56ED9c1328DFAA4eC60576a9",
+    "name": "TOON",
+    "rewardToken": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+    "rewardVault": "0x292920351ea01665CAdC2bc2ff7c334824732D15",
+    "startBlock": 12166945,
+    "endBlock": 13030945,
+    "stakingPools": [
+      {
+        "address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+        "share": 50,
+        "pid": 0
+      },
+      {
+        "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "share": 50,
+        "pid": 1
+      }
+    ]
+  },
+  {
+    "address": "0x2D6a020c8073107DCadbFD114489823E7f186436",
+    "name": "HOT CROSS",
+    "rewardToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "rewardVault": "0x3739E3CC9b5eFfB9bcBe9E7F8AA2fDb07971994a",
+    "startBlock": 12166885,
+    "endBlock": 13030886,
+    "stakingPools": [
+      {
+        "address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+        "share": 100,
+        "pid": 0
+      }
+    ]
   }
 ]
